@@ -1,0 +1,22 @@
+{
+  "name": "@standard-library/is",
+  "version": "1.0.0",
+  "description": "Concise Object.is",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/standard-library/is.git"
+  },
+  "author": "Standard Library",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/standard-library/is/issues"
+  },
+  "homepage": "https://github.com/standard-library/is#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
