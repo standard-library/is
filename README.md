@@ -12,7 +12,7 @@ yarn add @standard-library/is
 
 Use anywhere you might otherwise want to check equality. Never again use the vastly inferior `===` and `==`. Also: functional.
 
-```
+```javascript
 const is = require("@standard-library/is");
 
 is(1, 1);
